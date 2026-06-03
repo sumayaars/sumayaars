@@ -16,7 +16,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new Project using React and Node.js**
-- 🌱 I'm currently learning: **📚Aws Cloud Technical Essentials**
+- 🌱 I'm currently learning: **Cyber Security**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js,  MongoDB, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
